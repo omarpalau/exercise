@@ -1,3 +1,3 @@
 This documentation describes how to use the Pavel robotic toothbrush.
 
-Note that this toothbrush is totally safe to use for children, adults, and wildlife.
+Note that this toothbrush is totally safe to use for children, adults, wildlife, and trees.
