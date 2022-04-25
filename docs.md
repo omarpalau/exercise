@@ -1,4 +1,4 @@
-This documentation describes how to use the Titi automatic toothbrush.
+This documentation describes how to use the Vainilleitor.
 
 Note that this toothbrush is totally safe to use for children, adults, wildlife, and trees.
 
